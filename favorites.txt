@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 pizza
 ghorme sabzi
 kibab
+=======
+mad max fury
+interstellar
+lalaland
+>>>>>>> movies
